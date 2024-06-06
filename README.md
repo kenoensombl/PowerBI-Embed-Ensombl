@@ -287,5 +287,9 @@ Currently, you have been testing using Power BI resources.  In order to distribu
 - Sample: https://docs.microsoft.com/en-us/power-bi/developer/embed-sample-for-customers
 - https://github.com/Microsoft/PowerBI-JavaScript/wiki/Embedding-Basics
 
+# Source
+- https://github.com/AdamPaternostro/Azure-Power-BI-Embedded-Sample
+- https://www.youtube.com/watch?v=FZjQmvwBAdU
+
 
 
