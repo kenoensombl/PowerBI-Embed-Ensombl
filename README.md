@@ -287,6 +287,10 @@ Currently, you have been testing using Power BI resources.  In order to distribu
 - Sample: https://docs.microsoft.com/en-us/power-bi/developer/embed-sample-for-customers
 - https://github.com/Microsoft/PowerBI-JavaScript/wiki/Embedding-Basics
 
+- links to test endpoint
+   - https://learn.microsoft.com/en-us/rest/api/power-bi/embed-token/generate-token#code-try-0
+   - https://learn.microsoft.com/en-us/rest/api/power-bi/reports/get-report#code-try-0
+
 # Source
 - https://github.com/AdamPaternostro/Azure-Power-BI-Embedded-Sample
 - https://www.youtube.com/watch?v=FZjQmvwBAdU
