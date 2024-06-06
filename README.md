@@ -291,5 +291,6 @@ Currently, you have been testing using Power BI resources.  In order to distribu
 - https://github.com/AdamPaternostro/Azure-Power-BI-Embedded-Sample
 - https://www.youtube.com/watch?v=FZjQmvwBAdU
 
-
+# Credit to
+https://www.youtube.com/@adampaternostro
 
